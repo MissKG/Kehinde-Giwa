@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ## About Me
-I'm Kehinde Giwa a passionate Data Scientist in training with a keen interest in Data. I love to explore new technologies and contribute to open-source projects.
+I'm Kehinde Giwa a passionate Data Scientist-in-training with a keen interest in Data. I love to explore new technologies and contribute to open-source projects.
 
 
 ## Skills
